@@ -1,1 +1,2 @@
-config-dev.yml 1111
+config:
+  info: 123123
